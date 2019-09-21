@@ -1,0 +1,4 @@
+﻿  hehebart.cpp
+C:\Users\Shev\Desktop\epic\hehebart\hehebart\hehebart.cpp(79,21): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\Shev\Desktop\epic\hehebart\hehebart\hehebart.cpp(158,36): warning C4305:  '-=': truncation from 'double' to 'float'
+  hehebart.vcxproj -> C:\Users\Shev\Desktop\epic\hehebart\Debug\hehebart.exe

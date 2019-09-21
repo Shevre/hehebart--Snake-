@@ -1,0 +1,8 @@
+﻿  hehebart.cpp
+C:\Users\Shev\Desktop\epic\hehebart\hehebart\hehebart.cpp(79,21): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\Shev\Desktop\epic\hehebart\hehebart\hehebart.cpp(158,36): warning C4305:  '-=': truncation from 'double' to 'float'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 143 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  hehebart.vcxproj -> C:\Users\Shev\Desktop\epic\hehebart\Release\hehebart.exe
