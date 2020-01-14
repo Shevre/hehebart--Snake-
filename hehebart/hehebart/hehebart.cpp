@@ -209,7 +209,7 @@ int main()
 			screen[(_FruitY * _ScreenWidth) + _FruitX] = 'O';
 
 			screen[_ScreenWidth * _ScreenHeight - 1] = '\0'; // setting last character of buffer to an escape character so it knows to stop drawing text
-			WriteConsoleOutputCharacter(hConsole, screen, _ScreenWidth * _ScreenHeight, { 0,0 }, &dwBytesWritten); //actually drawing the stuf
+			WriteConsoleOutputCharacter(hConsole, screen, _ScreenWidth * _ScreenHeight, { 0,0 }, &dwBytesWritten); //actually drawing the stuff
 		}
 
 	}
